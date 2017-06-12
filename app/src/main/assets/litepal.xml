@@ -1,0 +1,9 @@
+<litepal>
+    <dbname volue="wWeather"/>
+    <version value="1"/>
+    <list>
+        <mapping class="wshapp.myweather.database.Province"/>
+        <mapping class="wshapp.myweather.database.City"/>
+        <mapping class="wshapp.myweather.database.County"/>
+    </list>
+</litepal>
